@@ -1,8 +1,11 @@
 # docker-nginx-node-mysql
 
 # Modo de usar:
+
 git clone https://github.com/FabioNazario/docker-nginx-node-mysql
+
 cd docker-nginx-node-mysql
+
 docker-compose up -d
 
 
