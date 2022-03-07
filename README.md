@@ -7,8 +7,6 @@ git clone https://github.com/FabioNazario/docker-nginx-node-mysql
 cd docker-nginx-node-mysql
 docker-compose up -d
 ```
-Obs: Mysql demorando muito para subir e não consegui descobrir porque, aguardar pelo menos 1 minuto antes de testar
-
 ----
 Docker-desafio-2: enunciado
 
